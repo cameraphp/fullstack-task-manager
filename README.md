@@ -50,3 +50,12 @@ Bash
 npm run dev
 
 # La aplicación se abrirá en http://localhost:5173 (o similar )
+
+## Screenshots
+![alt text](<Screenshot From 2025-12-28 00-23-23.png>)
+
+![alt text](<Screenshot From 2025-12-28 00-54-28.png>)
+
+![alt text](<Screenshot From 2025-12-28 00-54-19.png>) 
+
+![alt text](<Screenshot From 2025-12-28 00-54-09.png>)
